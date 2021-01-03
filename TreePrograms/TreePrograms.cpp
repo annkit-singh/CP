@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 #define N 0
 using namespace std;
-bool isBstGreater(Node*, int );
-bool isBstLesser(Node*, int );
 
     struct Node
 {
